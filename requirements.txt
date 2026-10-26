@@ -1,0 +1,7 @@
+# Python 3.9 en Windows. TensorFlow 2.10 es la última versión con soporte nativo de GPU en Windows.
+tensorflow==2.10.1
+numpy==1.26.4
+protobuf==3.19.6
+matplotlib==3.9.4
+requests==2.32.3
+ipykernel==6.29.5
