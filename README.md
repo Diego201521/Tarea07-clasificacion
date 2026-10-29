@@ -50,4 +50,4 @@ Se utilizó un asistente de IA para organizar y redactar el cuaderno y este READ
 | 5. Adaptar el README a la actividad | Implementado | Este archivo documenta ejecución, alcance y limitaciones. |
 | 6. Describir el uso de herramientas de IA | Implementado | Sección «Uso de herramientas de IA». |
 
-El único pendiente documental es adjuntar las fuentes o capturas de descarga. El cuaderno se ejecutó y validó con los archivos actuales; detecta el formato real por contenido y evita que el WebP mal nombrado como JPG falle en `DecodeJpeg`.
+
