@@ -32,7 +32,12 @@ Se ejecutó el cuaderno con TensorFlow 2.10.1 y los archivos actuales. El modelo
 
 ### Evidencia de adquisición
 
-Según la información proporcionada para la práctica, las diez imágenes fueron descargadas de internet. El repositorio no incluye las direcciones web de origen ni capturas del proceso de descarga. El mosaico del cuaderno documenta qué archivos se procesan, pero no basta para verificar su adquisición. Para completar este punto de las instrucciones, agregue los enlaces de las fuentes y, si está disponible, una captura de las páginas de descarga.
+La adqusión de imagenes se hace a traves de la web.
+https://share.google/xQupwhHnnmLC5dCxq
+https://share.google/drMlOcW5AdePQnIBs
+https://share.google/bhZrYvAG9t2Dmyrwa
+https://share.google/NYE3xOosHI6BQMOXu
+https://share.google/RRnue6KkyTn1nMpcq
 
 ## Uso de herramientas de IA
 
